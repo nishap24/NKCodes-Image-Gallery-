@@ -18,7 +18,7 @@ The NK Codes💛 Image Gallery is a responsive web page that showcases a collect
 
 Live Demo:
 
-   
+https://nishap24.github.io/NKCodes-Image-Gallery-/   
 ## Getting Started:
 
 To use the NK Codes💛 Image Gallery web page, follow these steps:
