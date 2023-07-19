@@ -85,7 +85,9 @@ Note: The JavaScript code can be further customized to add additional functional
 
 - Easy customization of images and styling.
 
+## Deployment Status 
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/62c84b5c-be94-44ba-b7a5-eba87575d50e/deploy-status)](https://app.netlify.com/sites/kanasu-image-gallery/deploys)
 
 ## Contributing
 
